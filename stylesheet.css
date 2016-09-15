@@ -1,0 +1,170 @@
+/* Body */
+
+body
+{
+    background-color: rgb(104, 187, 285);
+}
+
+#bloc_page
+{
+    width: 1000px;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Header */
+
+header
+{
+    background-color: blue;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+header h1
+{
+    text-align: center;
+    color: white;
+}
+
+/* Container */
+
+#container
+{   
+    width: 960px;
+    padding: 20px;
+    background-color: blue;
+}
+
+#left_box
+{
+    width: 260px;
+    height: 650px;
+    background-color: rgb(9, 30, 45);
+    display: inline-block;
+    float: left;
+    color: white;
+    font-size: 0.8em;
+}
+
+#left_box img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#left_box ul
+{
+    list-style-type: none;
+}
+
+.souligne
+{
+    text-decoration: underline;
+}
+
+#right_box
+{
+    width: 640px;
+    height: 610px;
+    background-color: rgb(9, 30, 45);
+    margin-left: 20px;
+    display: inline-block;
+    padding: 20px;
+}
+
+#right_box h2
+{
+    margin-left: 20px;
+    font-weight: normal;
+    font-size: 1.6em;
+}
+
+#experiences_box
+{
+    display: inline-block;
+    width: 640px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.experience h3
+{
+    margin-left: 20px;
+    font-weight: normal;
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.experience p
+{
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 0.8em;
+}
+
+#studies_box
+{
+    display: inline-block;
+    width: 640px;
+    background-color: white;
+}
+
+.study h3
+{
+    margin-left: 20px;
+    font-weight: normal;
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.study h4
+{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-weight: normal;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.study p
+{
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 0.8em;
+}
+
+footer
+{
+    background-color: blue;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer p
+{
+    color: white;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
